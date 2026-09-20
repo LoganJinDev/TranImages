@@ -1,0 +1,14 @@
+# IDE
+.idea/
+
+# macOS
+**/.DS_Store
+
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
